@@ -24,6 +24,7 @@ As a parent with small children, wouldn't you like to make your Disney Experienc
 * [Ice Breaker Form](https://airtable.com/shrAdKBPL0cQiN3bv)
 * [Trello Board](https://trello.com/b/jJiVlCaR/disney-parent-i)
 * [Schedule and Daily Milestones](https://www.notion.so/e47e56b01c7e4aec936ed35dba6667fb?v=dc00394354934504b8fc206c6a98e328)
+* [Design Docs](https://docs.google.com/presentation/d/1FUabjTHKCQZdKjqKRHDAMsbrENG2aLcEOlJ0CaK1Lhk/edit#slide=id.g6fedf9a8ea_0_72)
 
 ## Contributors
 
