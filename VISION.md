@@ -52,6 +52,12 @@ This is the template for the Product Vision Document that teams complete after t
   - Child-care contractors
 
 - What feedback have you gotten from potential users?
+  - Users want to know how secure the app is before agreeing to allow anyone to watch their children.
+  - Users prefer to have other methods of verification other than verifying their ID’s. (Fingerprinting/Background Checks)
+  - Users want to use the app for a few rides, but still, prefer spending time with their children.
+  - Users have stated that they are willing to pay for Disney Parent and are willing to pay for extra features as long as they benefited from their experience. 
+  - Users expressed not knowing any competitor apps on the market. 
+
 
 - Have you validated this problem and your solution with a target audience? Describe how?
   - Conducted user experience interviews
